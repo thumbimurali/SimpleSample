@@ -3,8 +3,8 @@
   "name": "simplesample",
   "type": "ui-elements",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/thumbimurali/SimpleSample.git",
+    "ssh": "git@github.com:thumbimurali/SimpleSample.git",
     "branch": "block_simplesample"
   },
   "parentBlockIDs": [
