@@ -1,0 +1,21 @@
+{
+  "name": "SimpleSample",
+  "type": "package",
+  "blockId": "9oFc6P9MZb1vtQOSfo3sn",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_SimpleSample"
+  },
+  "parentBlockIDs": [],
+  "isPublic": false,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "simplesample": {
+      "directory": "simplesample"
+    }
+  }
+}
